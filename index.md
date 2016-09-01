@@ -8,4 +8,4 @@ to be continue
 
 ##Today is 1st Sep 2016 
 
-ifanr[www.ifanr.com]
+[ifanr](www.ifanr.com)
